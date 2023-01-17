@@ -1,0 +1,6 @@
+print ('insira o primeiro valor: ')
+var1 = input()
+print ('o outro número agora: ')
+var2 = input()
+variable = int (var1) + int (var2)
+print ('o resultado é: ' , variable)
