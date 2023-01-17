@@ -1,2 +1,4 @@
 # Python
- curso de Python completo do Curso em Video
+Materiais, exercícios e anotações feitas por mim ao longo do curso completo de Python do Curso em Video 
+
+........
